@@ -1,0 +1,14 @@
+﻿body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline; color: #ff0000;
+}
+h2 {
+    text-decoration: underline;color: #ffd800;
+}
+p1 {
+    color: #0000ff;
+}
